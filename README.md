@@ -1,6 +1,8 @@
 # T-Shirt Customizer
 Welcome to the T-Shirt Design Customizer project! This web application allows users to customize T-shirt designs by selecting colors and uploading their own logos or textures. The T-shirt model is rendered using three.js for a realistic and interactive experience.
 
+Live demo: https://mabelzhou.github.io/shirt-customizer/
+
 ## Tools Used
 * React for front-end framework
 * Three.js for 3D rendering 
